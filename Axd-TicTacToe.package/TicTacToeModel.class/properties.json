@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "Axd 8/6/2017 23:31",
+	"super" : "Matrix",
+	"category" : "Axd-TicTacToe",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"filledCellCount",
+		"currentFill",
+		"winner"
+	],
+	"name" : "TicTacToeModel",
+	"type" : "normal"
+}

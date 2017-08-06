@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "Axd 8/6/2017 23:30",
+	"super" : "Object",
+	"category" : "Axd-TicTacToe",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"container",
+		"model"
+	],
+	"name" : "TicTacToe",
+	"type" : "normal"
+}

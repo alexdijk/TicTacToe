@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "Axd 8/6/2017 23:31",
+	"super" : "SimpleButtonMorph",
+	"category" : "Axd-TicTacToe",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"parentModel",
+		"rowNum",
+		"colNum"
+	],
+	"name" : "TicTacToeCell",
+	"type" : "normal"
+}
